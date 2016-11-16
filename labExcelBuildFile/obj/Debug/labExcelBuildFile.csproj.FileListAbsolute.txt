@@ -1,0 +1,9 @@
+E:\Programs\CSharp\labExcelBuildFile\labExcelBuildFile\bin\Debug\labExcelBuildFile.exe.config
+E:\Programs\CSharp\labExcelBuildFile\labExcelBuildFile\bin\Debug\labExcelBuildFile.exe
+E:\Programs\CSharp\labExcelBuildFile\labExcelBuildFile\bin\Debug\labExcelBuildFile.pdb
+E:\Programs\CSharp\labExcelBuildFile\labExcelBuildFile\obj\Debug\labExcelBuildFile.csprojResolveAssemblyReference.cache
+E:\Programs\CSharp\labExcelBuildFile\labExcelBuildFile\obj\Debug\labExcelBuildFile.Form1.resources
+E:\Programs\CSharp\labExcelBuildFile\labExcelBuildFile\obj\Debug\labExcelBuildFile.Properties.Resources.resources
+E:\Programs\CSharp\labExcelBuildFile\labExcelBuildFile\obj\Debug\labExcelBuildFile.csproj.GenerateResource.Cache
+E:\Programs\CSharp\labExcelBuildFile\labExcelBuildFile\obj\Debug\labExcelBuildFile.exe
+E:\Programs\CSharp\labExcelBuildFile\labExcelBuildFile\obj\Debug\labExcelBuildFile.pdb
